@@ -1,6 +1,6 @@
 # sequential-knowledge-based-IR
 
-Nmo = min # of orig concepts related to
+Nmo = min # of orig concepts related to the next layer concepts
 
 | STY | Nmo           | intCoeff |fbD, fbT| prec |
 | --- | ------------- | -------- | ------ | ---- |
