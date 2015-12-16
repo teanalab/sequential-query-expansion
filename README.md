@@ -1,8 +1,8 @@
 # sequential-knowledge-based-IR
 
-| STY | min # of orig | intCoeff |fbDocs, | prec |
-|     | concepts      |          |fbTerms |      |
-|     | related to    |          |        |      |
+Nmo = min # of orig concepts related to
+
+| STY | Nmo           | intCoeff |fbD, fbT| prec |
 | --- | ------------- | -------- | ------ | ---- |
 |  Y  | 0             |  0.01    | 0      |0.215 |
 |  Y  | 1\*           |  0.01    | 0      |0.2163|
