@@ -1,8 +1,8 @@
 # sequential-knowledge-based-IR
 
-Nmo = min # of concepts from the previous layer that are related to the selectable concepts
+Nm = min # of concepts from the previous layer that are related to the selectable concepts
 
-| STY | Nmo           | intCoeff |fbD, fbT| prec |
+| STY | Nm            | intCoeff |fbD, fbT| prec |
 | --- | ------------- | -------- | ------ | ---- |
 |  Y  | 0             |  0.01    | 0      |0.215 |
 |  Y  | 1\*           |  0.01    | 0      |0.2163|
