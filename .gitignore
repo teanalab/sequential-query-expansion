@@ -20,4 +20,4 @@ depend/
 swig/
 .ipynb_checkpoints/
 .ropeproject/
-api_key.txt
+*key.txt
