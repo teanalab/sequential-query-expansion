@@ -1,0 +1,20 @@
+trec7n8 - cnet - first step
+
+intCoeff, expansionCount, dirCoeff, map precision = 0.1 85 600 0.1981
+
+intCoeff, expansionCount, dirCoeff, map precision = 0.2 85 600 0.1987
+
+intCoeff, expansionCount, dirCoeff, map precision = 0.3 85 600 0.1992
+
+intCoeff, expansionCount, dirCoeff, map precision = 0.4 85 600 0.1986
+
+intCoeff, expansionCount, dirCoeff, map precision = 0.5 85 600 0.1907
+
+intCoeff, expansionCount, dirCoeff, map precision = 0.6 85 600 0.1858
+
+intCoeff, expansionCount, dirCoeff, map precision = 0.7 85 600 0.1756
+
+intCoeff, expansionCount, dirCoeff, map precision = 0.8 85 600 0.1454
+
+---------------------------------------------------------------------
+
