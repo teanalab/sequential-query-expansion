@@ -163,7 +163,8 @@ intCoeff, expansionCount, dirCoeff, map precision = 0.3 210 1600 0.2027
 
 intCoeff, expansionCount, dirCoeff, map precision = 0.3 215 1600 0.2027
 
-
+----------------------------------------------------------------------
+trec7n8 - cnet - second step
 
 intCoeff, expansionCount, dirCoeff, map precision = 0.0 115 1600 0.2000
 
@@ -417,3 +418,163 @@ intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision,
 intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.4 0.18 115 145 1600 2 0.1994
 ---------------------------------------------------------------------
 
+trec7n8 - cnet - second step - simMeasure = mi
+
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 0 0.2030
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 1 0.2020
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 2 0.2026
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 3 0.2030
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 4 0.2024
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 5 0.2026
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 6 0.2022
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 7 0.2023
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 8 0.2024
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 9 0.2026
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 10 0.2026
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 11 0.2027
+
+--> intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 12 0.2029
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 13 0.2028
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 14 0.2028
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 15 0.2027
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 16 0.2025
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 17 0.2025
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0.18 115 145 1600 18 0.2025
+
+
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 0 0 1600 0 0.1999
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 5 0 1600 0 0.1954
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 10 0 1600 0 0.1996
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 15 0 1600 0 0.2010
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 20 0 1600 0 0.2026
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 25 0 1600 0 0.2029
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 30 0 1600 0 0.2031
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 35 0 1600 0 0.2025
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 40 0 1600 0 0.2028
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 45 0 1600 0 0.2034
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 50 0 1600 0 0.2036
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 55 0 1600 0 0.2033
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 60 0 1600 0 0.2032
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 65 0 1600 0 0.2031
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 70 0 1600 0 0.2027
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 75 0 1600 0 0.2026
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 80 0 1600 0 0.2025
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 85 0 1600 0 0.2026
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 90 0 1600 0 0.2026
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 95 0 1600 0 0.2027
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 100 0 1600 0 0.2028
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 105 0 1600 0 0.2029
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 110 0 1600 0 0.2028
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 115 0 1600 0 0.2034
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 120 0 1600 0 0.2034
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 125 0 1600 0 0.2033
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 130 0 1600 0 0.2037
+
+--> intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 135 0 1600 0 0.2039
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 140 0 1600 0 0.2038
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 145 0 1600 0 0.2034
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 150 0 1600 0 0.2035
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 155 0 1600 0 0.2035
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 160 0 1600 0 0.2033
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 165 0 1600 0 0.2034
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 170 0 1600 0 0.2034
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 175 0 1600 0 0.2034
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 180 0 1600 0 0.2028
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 185 0 1600 0 0.2028
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 190 0 1600 0 0.2027
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 195 0 1600 0 0.2027
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 200 0 1600 0 0.2026
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 205 0 1600 0 0.2027
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 210 0 1600 0 0.2027
+
+intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.3 0 215 0 1600 0 0.2028
+
+
+
+--> intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 0 1600 3 0.2037
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 5 1600 3 0.2026
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 10 1600 3 0.2031
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 15 1600 3 0.2027
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 20 1600 3 0.2035
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 25 1600 3 0.2035
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 30 1600 3 0.2035
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 35 1600 3 0.2033
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 40 1600 3 0.2033
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 45 1600 3 0.2034
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 50 1600 3 0.2034
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 55 1600 3 0.2034
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 60 1600 3 0.2034
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 65 1600 3 0.2033
