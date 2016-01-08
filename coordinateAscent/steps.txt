@@ -578,3 +578,32 @@ intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map
 intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 60 1600 3 0.2034
 
 intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 65 1600 3 0.2033
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+conceptnet - restapi-assoc - trec7n8
+
+--> intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.0 0.1 135 0 1600 0 0.2021
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.05 0.1 135 0 1600 0 0.2018
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.1 0.1 135 0 1600 0 0.2014
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.15 0.1 135 0 1600 0 0.2005
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.2 0.1 135 0 1600 0 0.1995
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.25 0.1 135 0 1600 0 0.1986
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 0 1600 0 0.1973
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.35 0.1 135 0 1600 0 0.1958
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.4 0.1 135 0 1600 0 0.1932
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.45 0.1 135 0 1600 0 0.1907
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
