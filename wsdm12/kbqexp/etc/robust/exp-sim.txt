@@ -1,0 +1,14 @@
+<parameters>
+  <index>/home/alex/index/robust/robust.key</index>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <textQuery>/home/alex/data/robust/queries/queryRobustStop301-700</textQuery>
+  <judgmentsFile>/home/alex/data/robust/queries/qrelsRobust301-700</judgmentsFile>
+  <unstemQuery>/home/alex/data/robust/queries/queryRobustUnstem301-700</unstemQuery>
+  <serverUrl>http://localhost:8000/</serverUrl>
+  <graphFile>/home/alex/data/robust/graphs/robust-hal-20</graphFile>
+  <weightThresh>0.001</weightThresh>
+  <numTopShow>10</numTopShow>
+  <maxDocRank>10</maxDocRank>
+</parameters>

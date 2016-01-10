@@ -1,0 +1,17 @@
+<parameters>
+  <index>/home/alex/index/aquaint/aquaint.key</index>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <textQuery>/home/alex/data/aquaint/queries/queryAquaint303-689</textQuery>
+  <colGraphFile>/home/alex/data/aquaint/graphs/aquaint-hal-20</colGraphFile>
+  <conGraphFile>/home/alex/data/aquaint/graphs/aquaint-qcon-3</conGraphFile>
+  <randWalkFile>/home/alex/projects/kbqexp/results/aquaint/exp/fwalk-eterms.res</randWalkFile>
+  <pathFindFile>/home/alex/projects/kbqexp/results/aquaint/exp/qpath-eterms.res</pathFindFile>
+  <weightThresh>0.001</weightThresh>
+  <judgFile>/home/alex/data/aquaint/queries/qrelsAquaint303-689</judgFile>
+  <maxDocRank>10</maxDocRank>
+  <expRadius>2</expRadius>
+  <numSplits>5</numSplits>
+  <outDir>/home/alex/projects/kbqexp/results/aquaint/rank/rank-new-2/splits</outDir>
+</parameters>

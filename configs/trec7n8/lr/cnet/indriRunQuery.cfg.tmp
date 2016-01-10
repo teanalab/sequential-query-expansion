@@ -1,0 +1,11 @@
+<parameters><index>/scratch/index/indri_5_7/trec7n8</index>
+<query>
+<number>407</number>
+<text>
+#weight(
+0.7 #combine(poach preserve wildlife )
+0.3 #combine(maintain unchanged)
+) 
+</text>
+</query>
+<rule>method:dir,mu:1600</rule><threads>32</threads><count>1000</count><trecFormat>true</trecFormat></parameters>

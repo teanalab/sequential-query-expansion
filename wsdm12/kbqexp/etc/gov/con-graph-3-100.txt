@@ -1,0 +1,10 @@
+<parameters>
+  <index>/home/alex/index/gov/gov.key</index>
+  <textQuery>/home/alex/data/gov/queries/queryWT04172-225</textQuery>
+  <unstemQuery>/home/alex/data/gov/queries/queryWT04Unstem172-225</unstemQuery>
+  <serverUrl>http://localhost:8000/</serverUrl>
+  <maxPathLen>3</maxPathLen>
+  <maxContSize>100</maxContSize>
+  <docFracMax>0.1</docFracMax>
+  <resultFile>/home/alex/projects/kbqexp/results/gov/con-graph-3-100-3.res</resultFile>
+</parameters>

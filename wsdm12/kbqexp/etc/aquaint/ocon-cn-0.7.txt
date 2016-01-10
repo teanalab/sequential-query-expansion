@@ -1,0 +1,17 @@
+<parameters>
+  <index>/home/alex/index/aquaint/aquaint.key</index>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <textQuery>/home/alex/data/aquaint/queries/queryAquaintMTerm</textQuery>
+  <unstemQuery>/home/alex/data/aquaint/queries/queryAquaintUnstemMTerm</unstemQuery>
+  <colGraphFile>/home/alex/data/aquaint/graphs/aquaint-hal-20</colGraphFile>
+  <conGraphFile>/home/alex/data/aquaint/graphs/aquaint-qcon-3</conGraphFile>
+  <weightThresh>0.001</weightThresh>
+  <expMethod>OverCont</expMethod>
+  <origModCoef>0.7</origModCoef>
+  <expRadius>3</expRadius>
+  <useConNet>1</useConNet>
+  <resultFormat>3col</resultFormat>
+  <resultFile>/home/alex/projects/kbqexp/results/aquaint/ocon-cn-0.7.res</resultFile>
+</parameters>

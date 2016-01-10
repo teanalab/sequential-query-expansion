@@ -22,6 +22,8 @@
 #include "indri/QueryEnvironment.hpp"
 #include <iostream>
 #include <sstream>
+#include <boost/algorithm/string/split.hpp>
+#include <boost/algorithm/string.hpp>
 
 void print_document_expression_count( const std::string& indexName, const std::string& expression ) {
   indri::api::QueryEnvironment env;
@@ -47,6 +49,41 @@ void print_expression_count( const std::string& indexName, const std::string& ex
 	  double result = env.expressionCount( line );
 
 	  std::cout << result << std::endl;
+  }
+  env.close();
+}
+
+void print_expression_cnet_stem( indri::collection::Repository& r, const std::string& expression ) {
+  indri::api::QueryEnvironment env;
+
+  ifstream file(expression.c_str());
+  std::string line;
+
+  while(std::getline(file, line, '\n')){
+
+	  std::vector<std::string> strs;
+	  boost::split(strs, line, boost::is_any_of(","));
+
+	  std::cout << strs[0] << ",";
+	  
+	  std::vector<std::string> strs1;
+	  boost::split(strs1, strs[1], boost::is_any_of(" "));
+  	  for(auto s: strs1)
+	  {
+  	  	  std::string stem = r.processTerm( s );
+	     std::cout << stem << " ";
+	  }
+	  std::cout << ",";
+	  
+	  std::vector<std::string> strs2;
+	  boost::split(strs2, strs[2], boost::is_any_of(" "));
+  	  for(auto s: strs2)
+	  {
+  	  	  std::string stem = r.processTerm( s );
+	     std::cout << stem << " ";
+	  }
+	  std::cout << std::endl;
+
   }
   env.close();
 }
@@ -535,6 +572,10 @@ int main( int argc, char** argv ) {
         REQUIRE_ARGS(4);
         std::string expression = argv[3];
         print_expression_count( repName, expression );
+      } else if( command == "sCnet" || command == "stemCnet" ) {
+        REQUIRE_ARGS(4);
+        std::string expression = argv[3];
+        print_expression_cnet_stem( r, expression );
       } else if( command == "dx" || command == "dxcount" ) {
         REQUIRE_ARGS(4);
       std::string expression = argv[3];

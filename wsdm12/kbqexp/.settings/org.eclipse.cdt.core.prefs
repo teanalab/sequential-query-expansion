@@ -1,0 +1,4 @@
+#Sat Dec 18 14:07:39 CST 2010
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1115617137=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<environment append\="true" appendContributed\="true">\n<variable delimiter\=";" name\="PROJ_DIR" operation\="replace" value\="${workspace_loc\:/kbqexp}"/>\n</environment>\n
+environment/project/cdt.managedbuild.config.gnu.exe.release.761190174=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<environment append\="true" appendContributed\="true">\n<variable delimiter\=";" name\="PROJ_DIR" operation\="append" value\="{workspace_loc\:/kbqexp}"/>\n</environment>\n

@@ -1,0 +1,16 @@
+<parameters>
+  <index>/home/alex/index/aquaint/aquaint.key</index>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <textQuery>/home/alex/data/aquaint/queries/queryDbg</textQuery>
+  <maxDocRank>10</maxDocRank>
+  <fbMethod>NegFB</fbMethod>
+  <negFBCoef>0.7</negFBCoef>
+  <feedbackMixtureNoise>0.95</feedbackMixtureNoise>
+  <feedbackCoefficient>0.9</feedbackCoefficient>
+  <feedbackDocuments>/home/alex/projects/kbqexp/results/aquaint/kl.res</feedbackDocuments>
+  <feedbackDocCount>10</feedbackDocCount>
+  <resultFormat>3col</resultFormat>
+  <resultFile>/home/alex/projects/kbqexp/results/aquaint/neg-fb-dbg.res</resultFile>
+</parameters>

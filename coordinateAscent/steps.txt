@@ -606,4 +606,120 @@ intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+conceptNet - stemmed relations - trec7n8
 
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.0 0.1 135 0 1600 0 0.1999
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.05 0.1 135 0 1600 0 0.2007
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.1 0.1 135 0 1600 0 0.2016
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.15 0.1 135 0 1600 0 0.2022
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.2 0.1 135 0 1600 0 0.2025
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.25 0.1 135 0 1600 0 0.2026
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 0 1600 0 0.2031
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.35 0.1 135 0 1600 0 0.2034
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.4 0.1 135 0 1600 0 0.2036
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.45 0.1 135 0 1600 0 0.2036
+
+--> intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.5 0.1 135 0 1600 0 0.2038
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.55 0.1 135 0 1600 0 0.2029
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.6 0.1 135 0 1600 0 0.2029
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.65 0.1 135 0 1600 0 0.2030
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.7 0.1 135 0 1600 0 0.2026
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.75 0.1 135 0 1600 0 0.2026
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.8 0.1 135 0 1600 0 0.2027
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.85 0.1 135 0 1600 0 0.2023
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.9 0.1 135 0 1600 0 0.2024
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.95 0.1 135 0 1600 0 0.2024
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+conceptNet - noStemmed direct relations - trec7n8
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.0 0.1 135 0 1600 0 0.2021
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.05 0.1 135 0 1600 0 0.2029
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.1 0.1 135 0 1600 0 0.2029
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.15 0.1 135 0 1600 0 0.2031
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.2 0.1 135 0 1600 0 0.2036
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.25 0.1 135 0 1600 0 0.2035
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 135 0 1600 0 0.2037
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.35 0.1 135 0 1600 0 0.2037
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.4 0.1 135 0 1600 0 0.2040
+
+--> intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.45 0.1 135 0 1600 0 0.2040
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.5 0.1 135 0 1600 0 0.2040
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.55 0.1 135 0 1600 0 0.2039
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.6 0.1 135 0 1600 0 0.2038
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.65 0.1 135 0 1600 0 0.2037
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.7 0.1 135 0 1600 0 0.2032
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.75 0.1 135 0 1600 0 0.2029
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.8 0.1 135 0 1600 0 0.2028
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.85 0.1 135 0 1600 0 0.2029
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.9 0.1 135 0 1600 0 0.2032
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.95 0.1 135 0 1600 0 0.2031
+
+
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.1 0.1 1000 0 1600 0 0.2025
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.2 0.1 1000 0 1600 0 0.2035
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.1 1000 0 1600 0 0.2034
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.4 0.1 1000 0 1600 0 0.2035
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.5 0.1 1000 0 1600 0 0.2038
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.6 0.1 1000 0 1600 0 0.2036
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.7 0.1 1000 0 1600 0 0.2036
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.8 0.1 1000 0 1600 0 0.2036
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.9 0.1 1000 0 1600 0 0.2030
+
+------------------------------------------------------------------------------------------------------------------------------------
+conceptNet - noStemmed inverse relations - trec7n8
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.0 0.1 1000 0 1600 0 0.2021
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.05 0.1 1000 0 1600 0 0.2024
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.1 0.1 1000 0 1600 0 0.2025
+
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.15 0.1 1000 0 1600 0 0.2022

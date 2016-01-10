@@ -1,0 +1,10 @@
+<parameters>
+  <index>/home/alex/index/aquaint/aquaint.key</index>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <startDocRank>10</startDocRank>
+  <textQuery>/home/alex/data/aquaint/queries/queryAquaintDiffMAP</textQuery>
+  <resultFile>/home/alex/projects/kbqexp/results/aquaint/kl-diff-map.res</resultFile>
+  <resultFormat>3col</resultFormat>
+</parameters>
