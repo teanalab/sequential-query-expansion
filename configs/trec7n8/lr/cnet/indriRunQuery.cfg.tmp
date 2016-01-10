@@ -4,8 +4,8 @@
 <text>
 #weight(
 0.7 #combine(poach preserve wildlife )
-0.3 #combine(maintain unchanged)
+0.3 #combine(muddy)
 ) 
 </text>
 </query>
-<rule>method:dir,mu:1600</rule><threads>32</threads><count>1000</count><trecFormat>true</trecFormat></parameters>
+<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>

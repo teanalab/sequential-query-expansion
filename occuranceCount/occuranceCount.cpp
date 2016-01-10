@@ -368,6 +368,29 @@ void print_document_text( indri::collection::Repository& r, const char* number )
   delete document;
 }
 
+void print_document_map( indri::collection::Repository& r ) {
+
+	indri::server::LocalQueryServer local(r);
+	UINT64 docCount = local.documentCount();
+	for(size_t documentID = 1; documentID <= docCount; documentID++)
+	{
+
+		indri::collection::CompressedCollection* collection = r.collection();
+		indri::api::ParsedDocument* document = collection->retrieve( documentID );
+
+		for( size_t i=0; i<document->metadata.size(); i++ ) {
+			if( document->metadata[i].key[0] == '#' )
+				continue;
+
+			std::cout << documentID << " "
+				<< (const char*) document->metadata[i].value
+				<< std::endl;
+		}
+
+		delete document;
+	}
+}
+
 void print_document_data( indri::collection::Repository& r, const char* number ) {
   int documentID = atoi( number );
   indri::collection::CompressedCollection* collection = r.collection();
@@ -520,6 +543,7 @@ void usage() {
   std::cout << "    documentname (dn)    Document ID    Print the text representation of a document ID" << std::endl;
   std::cout << "    documenttext (dt)    Document ID    Print the text of a document" << std::endl;
   std::cout << "    documentdata (dd)    Document ID    Print the full representation of a document" << std::endl;
+  std::cout << "    documentmap (dm)     None           Print the full document IDs and names" << std::endl;
   std::cout << "    documentvector (dv)  Document ID    Print the document vector of a document" << std::endl;
   std::cout << "    invlist (il)         None           Print the contents of all inverted lists" << std::endl;
   std::cout << "    vocabulary (v)       None           Print the vocabulary of the index" << std::endl;
@@ -589,6 +613,9 @@ int main( int argc, char** argv ) {
       } else if( command == "dd" || command == "documentdata" ) {
         REQUIRE_ARGS(4);
         print_document_data( r, argv[3] );
+      } else if( command == "dm" || command == "documentmap" ) {
+        REQUIRE_ARGS(3);
+        print_document_map( r );
       } else if( command == "dv" || command == "documentvector" ) {
         REQUIRE_ARGS(4);
         print_document_vector( r, argv[3] );
