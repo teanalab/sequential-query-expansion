@@ -1,11 +1,11 @@
 <parameters><index>/scratch/index/indri_5_7/trec7n8</index>
 <query>
-<number>407</number>
+<number>425</number>
 <text>
 #weight(
-0.7 #combine(poach preserve wildlife )
-0.3 #combine(muddy)
+0.7 #combine(money counterfeit )
+0.3 #combine(moneyed)
 ) 
 </text>
 </query>
-<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>
+<rule>method:dir,mu:100</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>
