@@ -1,11 +1,20 @@
 <parameters><index>/scratch/index/indri_5_7/trec7n8</index>
 <query>
-<number>425</number>
+<number>407_poach_wildlife_preserve_illegally</number>
 <text>
 #weight(
-0.7 #combine(money counterfeit )
-0.3 #combine(moneyed)
+0.7 #combine(poach preserve wildlife )
+0.3 #combine(illegally)
 ) 
 </text>
 </query>
-<rule>method:dir,mu:100</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>
+<query>
+<number>406_parkinson's_disease_human_illness</number>
+<text>
+#weight(
+0.7 #combine(disease parkinson s )
+0.3 #combine(human illness)
+) 
+</text>
+</query>
+<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>

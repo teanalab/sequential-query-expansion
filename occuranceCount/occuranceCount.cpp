@@ -22,6 +22,7 @@
 #include "indri/QueryEnvironment.hpp"
 #include <iostream>
 #include <sstream>
+#include <set>
 #include <boost/algorithm/string/split.hpp>
 #include <boost/algorithm/string.hpp>
 
@@ -43,6 +44,61 @@ void print_expression_count( const std::string& indexName, const std::string& ex
   env.close();
 
   std::cout << expression << ":" << result << std::endl;
+}
+
+void print_expressionfile_list( const std::string& indexName, indri::collection::Repository& r, const std::string& expression ) {
+  indri::api::QueryEnvironment env;
+
+  indri::collection::CompressedCollection* collection = r.collection();
+  // compute the expression list using the QueryEnvironment API
+  env.addIndex( indexName );
+
+  ifstream file(expression.c_str());
+  std::string line;
+
+  std::set<std::string> expressions;
+  while(std::getline(file, line, '\n')){
+
+	  if (expressions.find(line)!=expressions.end())
+		  continue;
+	  else
+		  expressions.insert(line);
+
+	  std::cout << line << ":";
+
+	  std::vector<indri::api::ScoredExtentResult> result = env.expressionList( line );
+	  for( size_t i=0; i<result.size(); i++ ) {
+		  std::string documentName = collection->retrieveMetadatum( result[i].document, "docno" );
+		  std::cout << documentName << ",";
+	  }
+	  std::cout << std::endl;
+  }
+
+  env.close();
+}
+
+void print_document_Count( const std::string& indexName, const std::string& expression ) {
+  indri::api::QueryEnvironment env;
+
+  env.addIndex( indexName );
+
+  ifstream file(expression.c_str());
+  std::string line;
+  
+  std::set<std::string> docIds;
+  while(std::getline(file, line, '\n')){
+	  
+	  if (docIds.find(line)!=docIds.end())
+	  	  continue;
+	  else
+	  	  docIds.insert(line);
+
+	  std::cout << line << ":";
+	  int result = env.documentLength( atoi(line.c_str()) );
+
+	  std::cout << result << std::endl;
+  }
+  env.close();
 }
 
 void print_file_count( const std::string& indexName, const std::string& expression ) {
@@ -548,6 +604,7 @@ void usage() {
   std::cout << "    termpositions (tp)   Term text      Print inverted list for a term, with positions" << std::endl;
   std::cout << "    fieldpositions (fp)  Field name     Print inverted list for a field, with positions" << std::endl;
   std::cout << "    expressionlist (e)   Expression     Print inverted list for an Indri expression, with positions" << std::endl;
+  std::cout << "    expressionfilelist (ef) filename    Print inverted list for a file of Indri expressions" << std::endl;
   std::cout << "    xcount (x)           Expression     Print count of occurrences of an Indri expression" << std::endl;
   std::cout << "    fxcount (fx)         filename       Print count of occurrences of all Indri expression in a file" << std::endl;
   std::cout << "    dxcount (dx)         Expression     Print document count of occurrences of an Indri expression" << std::endl;
@@ -557,6 +614,7 @@ void usage() {
   std::cout << "    documentdata (dd)    Document ID    Print the full representation of a document" << std::endl;
   std::cout << "    documentmap (dm)     None           Print the full document IDs and names" << std::endl;
   std::cout << "    documentvector (dv)  Document ID    Print the document vector of a document" << std::endl;
+  std::cout << "    documentcountfile (dcf) file name   Print the document length of all documents" << std::endl;
   std::cout << "    invlist (il)         None           Print the contents of all inverted lists" << std::endl;
   std::cout << "    vocabulary (v)       None           Print the vocabulary of the index" << std::endl;
   std::cout << "    stats (s)                           Print statistics for the Repository" << std::endl;
@@ -600,6 +658,10 @@ int main( int argc, char** argv ) {
         REQUIRE_ARGS(4);
         std::string field = argv[3];
         print_field_positions( r, field );
+      } else if( command == "ef" || command == "expressionfilename" ) {
+        REQUIRE_ARGS(4);
+        std::string expression = argv[3];
+        print_expressionfile_list( repName, r, expression );
       } else if( command == "e" || command == "expression" ) {
         REQUIRE_ARGS(4);
         std::string expression = argv[3];
@@ -632,6 +694,9 @@ int main( int argc, char** argv ) {
       } else if( command == "dm" || command == "documentmap" ) {
         REQUIRE_ARGS(3);
         print_document_map( r );
+      } else if( command == "dcf" || command == "documentcountfile" ) {
+        REQUIRE_ARGS(4);
+        print_document_Count( repName, argv[3] );
       } else if( command == "dv" || command == "documentvector" ) {
         REQUIRE_ARGS(4);
         print_document_vector( r, argv[3] );
