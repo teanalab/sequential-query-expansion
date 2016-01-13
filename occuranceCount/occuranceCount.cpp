@@ -77,8 +77,9 @@ void print_expressionfile_list( const std::string& indexName, indri::collection:
   env.close();
 }
 
-void print_document_Count( const std::string& indexName, const std::string& expression ) {
+void print_document_Count( const std::string& indexName, indri::collection::Repository& r, const std::string& expression ) {
   indri::api::QueryEnvironment env;
+  indri::collection::CompressedCollection* collection = r.collection();
 
   env.addIndex( indexName );
 
@@ -93,7 +94,9 @@ void print_document_Count( const std::string& indexName, const std::string& expr
 	  else
 	  	  docIds.insert(line);
 
-	  std::cout << line << ":";
+	  std::string documentName = collection->retrieveMetadatum( atoi(line.c_str()), "docno" );
+
+	  std::cout << documentName << ":";
 	  int result = env.documentLength( atoi(line.c_str()) );
 
 	  std::cout << result << std::endl;
@@ -696,7 +699,7 @@ int main( int argc, char** argv ) {
         print_document_map( r );
       } else if( command == "dcf" || command == "documentcountfile" ) {
         REQUIRE_ARGS(4);
-        print_document_Count( repName, argv[3] );
+        print_document_Count( repName, r, argv[3] );
       } else if( command == "dv" || command == "documentvector" ) {
         REQUIRE_ARGS(4);
         print_document_vector( r, argv[3] );
