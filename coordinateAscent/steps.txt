@@ -713,6 +713,110 @@ intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map
 
 intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.9 0.1 1000 0 1600 0 0.2030
 
+
+featureWeights = {'maxTopColCor': -20, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2033
+
+featureWeights = {'maxTopColCor': -10, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2039
+
+featureWeights = {'maxTopColCor': -1, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2045
+
+featureWeights = {'maxTopColCor': -0.5, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2045
+
+featureWeights = {'maxTopColCor': 0.5, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2045
+
+featureWeights = {'maxTopColCor': 1, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2045
+
+featureWeights = {'maxTopColCor': 10, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2047
+
+featureWeights = {'maxTopColCor': 20, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2047
+
+featureWeights = {'maxTopColCor': 50, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2049
+
+featureWeights = {'maxTopColCor': 100, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2055
+
+featureWeights = {'maxTopColCor': 200, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2058
+
+featureWeights = {'maxTopColCor': 150, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2054
+
+featureWeights = {'maxTopColCor': 200, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2058
+
+featureWeights = {'maxTopColCor': 250, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2058
+
+featureWeights = {'maxTopColCor': 300, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2059
+
+featureWeights = {'maxTopColCor': 350, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2060
+
+--> featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+--> intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2064
+
+featureWeights = {'maxTopColCor': 450, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2064
+
+featureWeights = {'maxTopColCor': 550, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2063
+
+featureWeights = {'maxTopColCor': 750, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2064
+
+featureWeights = {'maxTopColCor': 950, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.1, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2064
+
+
+
+
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': -150, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2058
+
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': -50, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2062
+
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': -5, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2063
+
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': -0.5, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2063
+
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 0.5, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2064
+
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 5, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2063
+
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 50, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2063
+
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 150, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2064
+
+len(relText_stringAll[1]) = 0
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 250, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2059
+
+len(relText_stringAll[1]) = 0
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 500, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2060
+
+len(relText_stringAll[1]) = 0
+featureWeights = {'maxTopColCor': 400, 'maxColPCor': 0.1, 'conIdf': 0.1, 'expTDocScore': 1000, 'topTermFrac': 0.1, 'avgColCor': 0.1, 'avgTopColCor': 0.1, 'numCanDocs': 0.1, 'maxTopColPCor': 0.1, 'avgCDocScore': 0.1, 'avgColPCor': 0.1, 'maxCDocScore': 0.1, 'avgTopColPCor': 0.1, 'maxColCor': 0.1}
+intCoeff0, intCoeff1, intCoeff2, expansionCount1, expansionCount2, dirCoeff, map precision, N1 = 0.7 0.3 0.5 85 0 1600 0 0.2062
+
+
 ------------------------------------------------------------------------------------------------------------------------------------
 conceptNet - noStemmed inverse relations - trec7n8
 
