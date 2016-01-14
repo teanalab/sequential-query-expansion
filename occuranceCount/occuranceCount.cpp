@@ -46,6 +46,51 @@ void print_expression_count( const std::string& indexName, const std::string& ex
   std::cout << expression << ":" << result << std::endl;
 }
 
+void print_expressionfileBrief_list( const std::string& indexName, indri::collection::Repository& r, const std::string& expression ) {
+  indri::api::QueryEnvironment env;
+
+  indri::collection::CompressedCollection* collection = r.collection();
+  // compute the expression list using the QueryEnvironment API
+  env.addIndex( indexName );
+
+  ifstream file(expression.c_str());
+  std::string line;
+
+  std::set<std::string> expressions;
+  while(std::getline(file, line, '\n')){
+
+	  if (expressions.find(line)!=expressions.end())
+		  continue;
+	  else
+		  expressions.insert(line);
+
+
+	  std::vector<std::string> strs;
+	  boost::split(strs, line, boost::is_any_of(":"));
+	  
+	  std::vector<std::string> topDocs;
+	  boost::split(topDocs, strs[1], boost::is_any_of(","));
+	  std::vector< lemur::api::DOCID_T > docids = env.documentIDsFromMetadata("docno", topDocs);
+
+	  std::vector<indri::api::ScoredExtentResult> result = env.expressionList( strs[0] );
+
+	  std::cout << strs[0] << ":";
+
+	  std::cout << to_string(result.size()) << ",";
+	  
+	  for( size_t i=0; i<result.size(); i++ ) {
+	  	  if (std::find(docids.begin(), docids.end(), result[i].document) != docids.end())
+		  {
+		  	  std::string documentName = collection->retrieveMetadatum( result[i].document, "docno" );
+		  	  std::cout << documentName << ",";
+		  }
+	  }
+	  std::cout << ":" << strs[1];
+	  std::cout << std::endl;
+  }
+
+  env.close();
+}
 void print_expressionfile_list( const std::string& indexName, indri::collection::Repository& r, const std::string& expression ) {
   indri::api::QueryEnvironment env;
 
@@ -451,10 +496,13 @@ void print_document_map( indri::collection::Repository& r ) {
 		for( size_t i=0; i<document->metadata.size(); i++ ) {
 			if( document->metadata[i].key[0] == '#' )
 				continue;
-
-			std::cout << documentID << " "
-				<< (const char*) document->metadata[i].value
-				<< std::endl;
+			
+			if (strcmp(document->metadata[i].key, "docno")==0)
+			{
+				std::cout << documentID << " "
+					<< (const char*) document->metadata[i].value
+					<< std::endl;
+			}
 		}
 
 		delete document;
@@ -665,6 +713,10 @@ int main( int argc, char** argv ) {
         REQUIRE_ARGS(4);
         std::string expression = argv[3];
         print_expressionfile_list( repName, r, expression );
+      } else if( command == "efb" || command == "expressionfilenameBrief" ) {
+        REQUIRE_ARGS(4);
+        std::string expression = argv[3];
+        print_expressionfileBrief_list( repName, r, expression );
       } else if( command == "e" || command == "expression" ) {
         REQUIRE_ARGS(4);
         std::string expression = argv[3];

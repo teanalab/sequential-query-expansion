@@ -1,19 +1,397 @@
 <parameters><index>/scratch/index/indri_5_7/trec7n8</index>
 <query>
-<number>407_poach_wildlife_preserve_illegally</number>
+<number>351_falkland_petroleum_exploration_old</number>
 <text>
 #weight(
-0.7 #combine(poach preserve wildlife )
-0.3 #combine(illegally)
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(old)
 ) 
 </text>
 </query>
 <query>
-<number>406_parkinson's_disease_human_illness</number>
+<number>351_falkland_petroleum_exploration_gather_information</number>
 <text>
 #weight(
-0.7 #combine(disease parkinson s )
-0.3 #combine(human illness)
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(gather information)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_clark</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(clark)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_find_new</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(find new)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_lewis</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(lewis)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_adventure</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(adventure)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_consideration</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(consideration)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_find</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(find)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_album</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(album)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_style</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(style)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_end</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(end)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_wilderness</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(wilderness)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_exploratory</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(exploratory)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_musical_work</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(musical work)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_travel</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(travel)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_expedition</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(expedition)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_into_unknown</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(into unknown)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_tv_show</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(tv show)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_examination</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(examination)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_great_search</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(great search)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_lewis_clark</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(lewis clark)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_into</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(into)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_discovery</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(discovery)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_columbus</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(columbus)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_explorer</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(explorer)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_jazz</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(jazz)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_great</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(great)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_explore</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(explore)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_television_show</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(television show)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_into_wilderness</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(into wilderness)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_new</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(new)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_penetrate</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(penetrate)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_search</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(search)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_computer_game</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(computer game)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_world</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(world)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_old_style</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(old style)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_strategy_game</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(strategy game)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_world_travel</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(world travel)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_range</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(range)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_expo</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(expo)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_unknown</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(unknown)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_video_game</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(video game)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_discovery_adventure</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(discovery adventure)
+) 
+</text>
+</query>
+<query>
+<number>351_falkland_petroleum_exploration_software</number>
+<text>
+#weight(
+0.7 #combine(exploration falkland petroleum )
+0.3 #combine(software)
 ) 
 </text>
 </query>
