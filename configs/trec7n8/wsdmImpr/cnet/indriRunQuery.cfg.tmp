@@ -1,0 +1,128 @@
+<parameters><index>/scratch/index/indri_5_7/trec7n8</index>
+<query>
+<number>358_blood_alcohol_fatality_death</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(death)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_destiny</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(destiny)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_fate</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(fate)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_danger</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(danger)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_fictitious_character</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(fictitious character)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_deadliness</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(deadliness)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_accident</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(accident)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_cartoon_character</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(cartoon character)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_fatal</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(fatal)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_inevitability</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(inevitability)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_fictional_character</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(fictional character)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_destruction</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(destruction)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_mortality</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(mortality)
+) 
+</text>
+</query>
+<query>
+<number>358_blood_alcohol_fatality_comic_character</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(comic character)
+) 
+</text>
+</query>
+<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>
