@@ -1,397 +1,127 @@
 <parameters><index>/scratch/index/indri_5_7/trec7n8</index>
 <query>
-<number>351_falkland_petroleum_exploration_old</number>
+<number>358_blood_alcohol_fatality_death</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(old)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(death)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_gather_information</number>
+<number>358_blood_alcohol_fatality_destiny</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(gather information)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(destiny)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_clark</number>
+<number>358_blood_alcohol_fatality_fate</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(clark)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(fate)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_find_new</number>
+<number>358_blood_alcohol_fatality_danger</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(find new)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(danger)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_lewis</number>
+<number>358_blood_alcohol_fatality_fictitious_character</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(lewis)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(fictitious character)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_adventure</number>
+<number>358_blood_alcohol_fatality_deadliness</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(adventure)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(deadliness)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_consideration</number>
+<number>358_blood_alcohol_fatality_accident</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(consideration)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(accident)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_find</number>
+<number>358_blood_alcohol_fatality_cartoon_character</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(find)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(cartoon character)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_album</number>
+<number>358_blood_alcohol_fatality_fatal</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(album)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(fatal)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_style</number>
+<number>358_blood_alcohol_fatality_inevitability</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(style)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(inevitability)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_end</number>
+<number>358_blood_alcohol_fatality_fictional_character</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(end)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(fictional character)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_wilderness</number>
+<number>358_blood_alcohol_fatality_destruction</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(wilderness)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(destruction)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_exploratory</number>
+<number>358_blood_alcohol_fatality_mortality</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(exploratory)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(mortality)
 ) 
 </text>
 </query>
 <query>
-<number>351_falkland_petroleum_exploration_musical_work</number>
+<number>358_blood_alcohol_fatality_comic_character</number>
 <text>
 #weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(musical work)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_travel</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(travel)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_expedition</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(expedition)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_into_unknown</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(into unknown)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_tv_show</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(tv show)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_examination</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(examination)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_great_search</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(great search)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_lewis_clark</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(lewis clark)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_into</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(into)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_discovery</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(discovery)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_columbus</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(columbus)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_explorer</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(explorer)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_jazz</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(jazz)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_great</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(great)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_explore</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(explore)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_television_show</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(television show)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_into_wilderness</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(into wilderness)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_new</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(new)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_penetrate</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(penetrate)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_search</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(search)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_computer_game</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(computer game)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_world</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(world)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_old_style</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(old style)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_strategy_game</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(strategy game)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_world_travel</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(world travel)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_range</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(range)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_expo</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(expo)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_unknown</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(unknown)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_video_game</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(video game)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_discovery_adventure</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(discovery adventure)
-) 
-</text>
-</query>
-<query>
-<number>351_falkland_petroleum_exploration_software</number>
-<text>
-#weight(
-0.7 #combine(exploration falkland petroleum )
-0.3 #combine(software)
+0.7 #combine(blood fatality alcohol )
+0.3 #combine(comic character)
 ) 
 </text>
 </query>
