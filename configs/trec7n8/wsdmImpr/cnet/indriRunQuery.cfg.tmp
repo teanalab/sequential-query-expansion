@@ -1,128 +1,3530 @@
 <parameters><index>/scratch/index/indri_5_7/trec7n8</index>
 <query>
-<number>358_blood_alcohol_fatality_death</number>
+<number>1_389_#4(_control_)_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(death)
+0.7 #combine(#4( control ) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_destiny</number>
+<number>1_389_#uw(#4(_illegal_)_#4(_control_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(destiny)
+0.7 #combine(#uw(#4( illegal ) #4( control )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_fate</number>
+<number>1_389_#uw(#4(_technology_)_#4(_control_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(fate)
+0.7 #combine(#uw(#4( technology ) #4( control )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_danger</number>
+<number>1_389_#uw(#4(_transfer_)_#4(_control_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(danger)
+0.7 #combine(#uw(#4( transfer ) #4( control )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_fictitious_character</number>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_control_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(fictitious character)
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( control )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_deadliness</number>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_control_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(deadliness)
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( control )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_accident</number>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_control_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(accident)
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( control )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_cartoon_character</number>
+<number>1_389_#4(_impression_)_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(cartoon character)
+0.7 #combine(#4( impression ) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_fatal</number>
+<number>1_389_#uw(#4(_illegal_)_#4(_impression_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(fatal)
+0.7 #combine(#uw(#4( illegal ) #4( impression )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_inevitability</number>
+<number>1_389_#uw(#4(_technology_)_#4(_impression_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(inevitability)
+0.7 #combine(#uw(#4( technology ) #4( impression )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_fictional_character</number>
+<number>1_389_#uw(#4(_transfer_)_#4(_impression_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(fictional character)
+0.7 #combine(#uw(#4( transfer ) #4( impression )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_destruction</number>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_impression_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(destruction)
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( impression )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_mortality</number>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_impression_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(mortality)
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( impression )) )
 ) 
 </text>
 </query>
 <query>
-<number>358_blood_alcohol_fatality_comic_character</number>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_impression_))_</number>
 <text>
 #weight(
-0.7 #combine(blood fatality alcohol )
-0.3 #combine(comic character)
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( impression )) )
 ) 
 </text>
 </query>
-<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>
+<query>
+<number>1_389_#4(_learn_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( learn ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_learn_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( learn )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_learn_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( learn )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_learn_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( learn )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_learn_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( learn )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_learn_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( learn )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_learn_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( learn )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_western_union_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( western union ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_western_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( western union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_western_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( western union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_western_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( western union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_western_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( western union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_western_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( western union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_western_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( western union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_ed_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( ed ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_ed_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( ed )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_ed_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( ed )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_ed_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( ed )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_ed_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( ed )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_ed_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( ed )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_ed_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( ed )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_move_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( move ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_move_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( move )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_move_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( move )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_move_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( move )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_move_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( move )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_move_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( move )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_move_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( move )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_surface_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( surface ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_surface_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( surface )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_surface_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( surface )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_surface_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( surface )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_surface_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( surface )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_surface_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( surface )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_surface_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( surface )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferral_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferral ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferral_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferral )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferral_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferral )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferral_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferral )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferral_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferral )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferral_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferral )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferral_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferral )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_design_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( design ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_design_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( design )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_design_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( design )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_design_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( design )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_design_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( design )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_design_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( design )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_design_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( design )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_convey_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( convey ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_convey_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( convey )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_convey_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( convey )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_convey_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( convey )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_convey_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( convey )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_convey_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( convey )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_convey_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( convey )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_pass_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( pass ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_pass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( pass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_pass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( pass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_pass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( pass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_pass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( pass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_pass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( pass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_pass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( pass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferrable_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferrable ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferrable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferrable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferrable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferrable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferrable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferrable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferrable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferrable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferrable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferrable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferrable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferrable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_change_of_state_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( change of state ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_change_of_state_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( change of state )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_change_of_state_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( change of state )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_change_of_state_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( change of state )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_change_of_state_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( change of state )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_change_of_state_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( change of state )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_change_of_state_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( change of state )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferor_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferor ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferor_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferor )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferor_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferor )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferor_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferor )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferor_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferor )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferor_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferor )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferor_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferor )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_ticket_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( ticket ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferal_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferal ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_reassignment_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( reassignment ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_reassignment_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( reassignment )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_reassignment_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( reassignment )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_reassignment_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( reassignment )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_reassignment_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( reassignment )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_reassignment_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( reassignment )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_reassignment_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( reassignment )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_heat_transfer_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( heat transfer ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_heat_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( heat transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_heat_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( heat transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_heat_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( heat transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_heat_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( heat transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_heat_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( heat transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_heat_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( heat transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_academic_journal_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( academic journal ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_academic_journal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( academic journal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_academic_journal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( academic journal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_academic_journal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( academic journal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_academic_journal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( academic journal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_academic_journal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( academic journal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_academic_journal_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( academic journal )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_union_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( union ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_union_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( union )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transfer_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transfer ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transfer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transfer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferer_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferer ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferer_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferer )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_belong_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( belong ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_belong_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( belong )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_belong_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( belong )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_belong_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( belong )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_belong_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( belong )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_belong_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( belong )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_belong_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( belong )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transference_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transference ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transference_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transference )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transference_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transference )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transference_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transference )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transference_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transference )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transference_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transference )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transference_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transference )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_carry_over_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( carry over ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_carry_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( carry over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_carry_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( carry over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_carry_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( carry over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_carry_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( carry over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_carry_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( carry over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_carry_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( carry over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferase_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferase ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferase_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferase )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferase_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferase )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferase_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferase )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferase_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferase )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferase_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferase )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferase_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferase )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferrin_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferrin ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferrin_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferrin )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferrin_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferrin )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferrin_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferrin )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferrin_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferrin )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferrin_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferrin )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferrin_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferrin )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transfer_window_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transfer window ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transfer_window_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transfer window )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transfer_window_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transfer window )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transfer_window_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transfer window )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transfer_window_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transfer window )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transfer_window_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transfer window )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transfer_window_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transfer window )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_money_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( money ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_change_hand_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( change hand ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_change_hand_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( change hand )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_change_hand_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( change hand )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_change_hand_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( change hand )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_change_hand_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( change hand )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_change_hand_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( change hand )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_change_hand_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( change hand )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_television_episode_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( television episode ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_television_episode_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( television episode )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_television_episode_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( television episode )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_television_episode_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( television episode )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_television_episode_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( television episode )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_television_episode_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( television episode )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_television_episode_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( television episode )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferee_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferee ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferee_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferee )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferee_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferee )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferee_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferee )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferee_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferee )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferee_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferee )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferee_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferee )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_movement_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( movement ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_write_work_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( write work ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_write_work_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( write work )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_write_work_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( write work )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_write_work_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( write work )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_write_work_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( write work )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_write_work_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( write work )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_write_work_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( write work )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transportation_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transportation ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transportation_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transportation )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transportation_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transportation )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transportation_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transportation )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transportation_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transportation )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transportation_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transportation )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transportation_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transportation )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_move_money_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( move money ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_move_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( move money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_move_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( move money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_move_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( move money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_move_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( move money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_move_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( move money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_move_money_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( move money )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_exchange_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( exchange ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_periodical_literature_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( periodical literature ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_periodical_literature_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( periodical literature )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_periodical_literature_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( periodical literature )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_periodical_literature_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( periodical literature )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_periodical_literature_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( periodical literature )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_periodical_literature_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( periodical literature )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_periodical_literature_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( periodical literature )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_bus_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( bus ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_bus_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( bus )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_bus_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( bus )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_bus_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( bus )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_bus_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( bus )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_bus_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( bus )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_bus_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( bus )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_property_movement_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( property movement ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_property_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( property movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_property_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( property movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_property_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( property movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_property_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( property movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_property_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( property movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_property_movement_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( property movement )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transpose_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transpose ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transpose_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transpose )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transpose_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transpose )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transpose_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transpose )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transpose_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transpose )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transpose_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transpose )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transpose_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transpose )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_onpass_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( onpass ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_onpass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( onpass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_onpass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( onpass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_onpass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( onpass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_onpass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( onpass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_onpass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( onpass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_onpass_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( onpass )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_fan_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( fan ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_fan_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( fan )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_fan_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( fan )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_fan_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( fan )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_fan_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( fan )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_fan_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( fan )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_fan_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( fan )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_western_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( western ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_western_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( western )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_western_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( western )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_western_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( western )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_western_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( western )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_western_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( western )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_western_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( western )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transfer_list_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transfer list ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transfer_list_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transfer list )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transfer_list_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transfer list )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transfer_list_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transfer list )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transfer_list_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transfer list )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transfer_list_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transfer list )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transfer_list_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transfer list )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_copy_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( copy ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_copy_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( copy )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_copy_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( copy )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_copy_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( copy )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_copy_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( copy )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_copy_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( copy )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_copy_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( copy )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_arrange_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( arrange ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_arrange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( arrange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_arrange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( arrange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_arrange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( arrange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_arrange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( arrange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_arrange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( arrange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_arrange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( arrange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transaction_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transaction ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transaction_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transaction )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transaction_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transaction )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transaction_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transaction )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transaction_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transaction )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transaction_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transaction )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transaction_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transaction )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_fur_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( fur ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferable_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferable ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferable_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferable )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_official_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( official ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_official_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( official )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_official_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( official )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_official_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( official )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_official_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( official )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_official_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( official )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_official_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( official )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_transferential_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( transferential ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_transferential_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( transferential )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_transferential_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( transferential )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_transferential_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( transferential )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_transferential_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( transferential )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_transferential_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( transferential )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_transferential_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( transferential )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_remove_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( remove ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_remove_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( remove )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_remove_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( remove )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_remove_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( remove )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_remove_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( remove )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_remove_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( remove )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_remove_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( remove )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_money_exchange_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( money exchange ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_money_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( money exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_money_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( money exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_money_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( money exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_money_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( money exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_money_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( money exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_money_exchange_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( money exchange )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_bus_ticket_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( bus ticket ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_bus_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( bus ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_bus_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( bus ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_bus_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( bus ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_bus_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( bus ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_bus_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( bus ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_bus_ticket_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( bus ticket )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_person_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( person ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_person_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( person )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_person_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( person )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_person_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( person )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_person_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( person )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_person_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( person )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_person_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( person )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_contact_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( contact ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_contact_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( contact )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_contact_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( contact )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_contact_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( contact )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_contact_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( contact )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_contact_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( contact )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_contact_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( contact )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_delegate_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( delegate ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_delegate_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( delegate )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_delegate_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( delegate )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_delegate_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( delegate )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_delegate_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( delegate )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_delegate_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( delegate )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_delegate_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( delegate )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_move_over_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( move over ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_move_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( move over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_move_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( move over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_move_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( move over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_move_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( move over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_move_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( move over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_move_over_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( move over )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_shift_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( shift ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_shift_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( shift )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_shift_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( shift )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_shift_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( shift )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_shift_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( shift )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_shift_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( shift )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_shift_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( shift )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_property_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( property ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_property_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( property )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_property_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( property )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_property_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( property )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_property_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( property )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_property_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( property )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_property_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( property )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_travel_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( travel ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_travel_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( travel )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_travel_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( travel )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_travel_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( travel )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_travel_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( travel )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_travel_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( travel )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_travel_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( travel )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#4(_fan_fur_)_</number>
+<text>
+#weight(
+0.7 #combine(#4( fan fur ) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_illegal_)_#4(_fan_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( illegal ) #4( fan fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_fan_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( fan fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_fan_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( fan fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_technology_)_#4(_illegal_)_#4(_fan_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( technology ) #4( illegal ) #4( fan fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_illegal_)_#4(_fan_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( illegal ) #4( fan fur )) )
+) 
+</text>
+</query>
+<query>
+<number>1_389_#uw(#4(_transfer_)_#4(_technology_)_#4(_fan_fur_))_</number>
+<text>
+#weight(
+0.7 #combine(#uw(#4( transfer ) #4( technology ) #4( fan fur )) )
+) 
+</text>
+</query>
+<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><workingset>FT922-3845</workingset><workingset>FBIS3-9841</workingset><workingset>FT944-15443</workingset><workingset>FBIS4-20515</workingset><workingset>FBIS4-34334</workingset><workingset>FT941-3758</workingset><workingset>FBIS3-26616</workingset><workingset>FT924-13194</workingset><workingset>LA041590-0031</workingset><workingset>FT933-7146</workingset><trecFormat>true</trecFormat></parameters>
