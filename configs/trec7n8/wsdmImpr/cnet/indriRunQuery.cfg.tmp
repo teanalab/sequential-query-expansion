@@ -1,9 +1,9 @@
 <parameters><index>/scratch/index/indri_5_7/trec7n8</index>
 <query>
-<number>1_394_home_school_</number>
+<number>1_358_blood_alcohol_fatality_</number>
 <text>
 #weight(
-0.7 #combine(home school )
+0.7 #combine(blood fatality alcohol )
 ) 
 </text>
 </query>
