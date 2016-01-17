@@ -149,6 +149,45 @@ void print_document_Count( const std::string& indexName, indri::collection::Repo
   env.close();
 }
 
+/*
+std::mutex mtx;
+
+static const int num_threads = 32;
+void call_from_thread(std::string line) {
+	double result = env.expressionCount( line );
+	mtx.lock();
+	std::cout << line << ":" << result << std::endl;
+	mtx.unlock();
+}
+
+
+void print_file_count_p( const std::string& indexName, const std::string& expression ) {
+	indri::api::QueryEnvironment env;
+
+	env.addIndex( indexName );
+
+	std::thread t[num_threads];
+
+	ifstream file(expression.c_str());
+	std::string line;
+
+	while(std::getline(file, line, '\n')){
+
+		for (int i = 0; i < num_threads; ++i) {
+			t[i] = std::thread(call_from_thread, line);
+			if(!std::getline(file, line, '\n'))
+				break
+		}
+
+		for (int i = 0; i < num_threads; ++i) {
+			t[i].join();
+		}
+	}
+
+	env.close();
+}
+*/
+
 void print_file_count( const std::string& indexName, const std::string& expression ) {
   indri::api::QueryEnvironment env;
 

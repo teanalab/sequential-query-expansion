@@ -3695,4 +3695,8 @@
 ) 
 </text>
 <workingSetDocno>FT941-9999</workingSetDocno><workingSetDocno>FT934-4848</workingSetDocno><workingSetDocno>FT922-15099</workingSetDocno><workingSetDocno>FT942-12805</workingSetDocno><workingSetDocno>FT932-16710</workingSetDocno><workingSetDocno>FT921-6603</workingSetDocno><workingSetDocno>FT931-16104</workingSetDocno><workingSetDocno>FT944-15849</workingSetDocno><workingSetDocno>FT922-14936</workingSetDocno><workingSetDocno>FT931-932</workingSetDocno></query>
-<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>
+<rule>method:linear,collectionLambda:0.00001</rule>
+<threads>32</threads>
+<count>10</count>
+<trecFormat>true</trecFormat>
+</parameters>
