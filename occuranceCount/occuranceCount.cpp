@@ -592,6 +592,42 @@ void print_document_data( indri::collection::Repository& r, const char* number )
   delete document;
 }
 
+void print_document_csv( indri::collection::Repository& r ) {
+  indri::server::LocalQueryServer local(r);
+  indri::collection::CompressedCollection* collection = r.collection();
+  UINT64 docCount = local.documentCount();
+
+  for(lemur::api::DOCID_T documentID = 1; documentID <= docCount; documentID++) 
+  {
+  
+	  std::string documentName = collection->retrieveMetadatum( documentID, "docno" );
+	  
+	  std::cout << documentName << ",";
+
+	  std::vector<lemur::api::DOCID_T> documentIDs;
+	  documentIDs.push_back(documentID);
+
+	  indri::server::QueryServerVectorsResponse* response = local.documentVectors( documentIDs );
+
+
+	  if( response->getResults().size() ) {
+		  indri::api::DocumentVector* docVector = response->getResults()[0];
+		  
+		  for( size_t i=0; i<docVector->positions().size(); i++ ) {
+			  int position = docVector->positions()[i];
+			  const std::string& stem = docVector->stems()[position];
+			  if (stem != "[OOV]")
+				  std::cout << stem << " ";
+		  }
+
+		  delete docVector;
+	  }
+	  std::cout << std::endl;
+
+	  delete response;
+  }
+}
+
 void print_document_vector( indri::collection::Repository& r, const char* number ) {
   indri::server::LocalQueryServer local(r);
   lemur::api::DOCID_T documentID = atoi( number );
@@ -704,6 +740,7 @@ void usage() {
   std::cout << "    documentdata (dd)    Document ID    Print the full representation of a document" << std::endl;
   std::cout << "    documentmap (dm)     None           Print the full document IDs and names" << std::endl;
   std::cout << "    documentvector (dv)  Document ID    Print the document vector of a document" << std::endl;
+  std::cout << "    documentCsv (dcsv)   None           Print all the documents in csv format" << std::endl;
   std::cout << "    documentcountfile (dcf) file name   Print the document length of all documents" << std::endl;
   std::cout << "    invlist (il)         None           Print the contents of all inverted lists" << std::endl;
   std::cout << "    vocabulary (v)       None           Print the vocabulary of the index" << std::endl;
@@ -791,6 +828,9 @@ int main( int argc, char** argv ) {
       } else if( command == "dcf" || command == "documentcountfile" ) {
         REQUIRE_ARGS(4);
         print_document_Count( repName, r, argv[3] );
+      } else if( command == "dcsv" || command == "documentCsv" ) {
+        REQUIRE_ARGS(3);
+        print_document_csv( r );
       } else if( command == "dv" || command == "documentvector" ) {
         REQUIRE_ARGS(4);
         print_document_vector( r, argv[3] );
