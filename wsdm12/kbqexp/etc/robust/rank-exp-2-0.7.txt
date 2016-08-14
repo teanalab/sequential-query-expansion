@@ -1,0 +1,28 @@
+<parameters>
+  <index>/home/alex/index/robust/robust.key</index>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <textQuery>/home/alex/data/robust/queries/queryRobust301-700</textQuery>
+  <featFile>/home/alex/projects/kbqexp/results/robust/rank/splits/test.2</featFile>
+  <termFile>/home/alex/projects/kbqexp/results/robust/rank/exp-terms-0.7.2</termFile>
+  <maxExpTerms>100</maxExpTerms>
+  <maxOutTerms>20</maxOutTerms>
+  <origModCoef>0.7</origModCoef>
+  <interc>0.196627</interc>
+  <topDocFrac>0.003812</topDocFrac>
+  <idf>-0.013115</idf>
+  <fanOut>0.001703</fanOut>
+  <avgColCor>-0.048437</avgColCor>
+  <maxColCor>0.046554</maxColCor>
+  <avgTopCor>0.035192</avgTopCor>
+  <maxTopCor>-0.014194</maxTopCor>
+  <avgTopPCor>0</avgTopPCor>
+  <maxTopPCor>-0.022538</maxTopPCor>
+  <avgQDist>-0.038104</avgQDist>
+  <maxQDist>0.009281</maxQDist>
+  <avgPWeight>0</avgPWeight>
+  <avgPWeight>0</avgPWeight>
+  <resultFormat>3col</resultFormat>
+  <resultFile>/home/alex/projects/kbqexp/results/robust/rank/rank-exp-0.7.2</resultFile>
+</parameters>

@@ -1,0 +1,28 @@
+<parameters>
+  <index>/home/alex/index/aquaint/aquaint.key</index>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <textQuery>/home/alex/data/aquaint/queries/queryAquaint303-689</textQuery>
+  <featFile>/home/alex/projects/kbqexp/results/aquaint/dbg/splits/test.1</featFile>
+  <termFile>/home/alex/projects/kbqexp/results/aquaint/dbg/exp-terms-dbg.1</termFile>
+  <maxExpTerms>100</maxExpTerms>
+  <maxOutTerms>20</maxOutTerms>
+  <origModCoef>0.7</origModCoef>
+  <interc>0.0584878</interc>
+  <topDocFrac>0.0046223</topDocFrac>
+  <idf>-0.0107557</idf>
+  <fanOut>-0.0005696</fanOut>
+  <avgColCor>-0.0195965</avgColCor>
+  <maxColCor>0.0118223</maxColCor>
+  <avgTopCor>-0.1338883</avgTopCor>
+  <maxTopCor>0.0375008</maxTopCor>
+  <avgTopPCor>0</avgTopPCor>
+  <maxTopPCor>0.0157197</maxTopPCor>
+  <avgQDist>-0.0077821</avgQDist>
+  <maxQDist>0.0090634</maxQDist>
+  <avgPWeight>0</avgPWeight>
+  <avgPWeight>0</avgPWeight>
+  <resultFormat>3col</resultFormat>
+  <resultFile>/home/alex/projects/kbqexp/results/aquaint/dbg/rank-exp-dbg.1</resultFile>
+</parameters>

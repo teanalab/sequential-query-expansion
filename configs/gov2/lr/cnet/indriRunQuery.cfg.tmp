@@ -1,0 +1,5375 @@
+<parameters><index>/scratch/index/indri_5_7/gov2</index>
+<query>
+<number>768_woman_in_state_legislature_prepare_for_date</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(prepare for date)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_folk_rock</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(folk rock)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_plan_her_day</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(plan her day)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_newswoman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(newswoman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hear_that_her_husband_be_cheat</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hear that her husband be cheat)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fancy_useless_item</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fancy useless item)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_triing_to_come_doun_rock</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(triing to come doun rock)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dress_sexy</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dress sexy)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bogeywoman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bogeywoman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_colloquialism</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(colloquialism)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_watch_her_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(watch her baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hate</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hate)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_right_to_her_life</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(right to her life)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_black_magic</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(black magic)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_date_her_future_husband</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(date her future husband)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_give_equal_oppertunities</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(give equal oppertunities)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dare_men_into_do_stupid_thing</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dare men into do stupid thing)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_their_hair_style_in_salon</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(their hair style in salon)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_need_to_spit_on_grind</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(need to spit on grind)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_rhythm_and_blue</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(rhythm and blue)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_suffer_violence</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(suffer violence)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_woman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(woman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hold_child_between_her_hand</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hold child between her hand)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mother_her_child_too_much</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mother her child too much)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_kiyak</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(kiyak)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_masturbate</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(masturbate)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_walk_along_beach</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(walk along beach)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_rate_limit_step_in_human_reproduction</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(rate limit step in human reproduction)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_write_poem</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(write poem)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_school</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(school)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_get_flower</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(get flower)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_adult_female_person</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(adult female person)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fancy_diamond</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fancy diamond)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_gender</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(gender)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_adult_person</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(adult person)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_eve</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(eve)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female_human</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female human)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_same_as_cow</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(same as cow)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_play_mind_game_with_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(play mind game with man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_age_more_quickly_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(age more quickly than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mammal</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mammal)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_row_small_boat</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(row small boat)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_touch_windowpane</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(touch windowpane)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hourglass_figure</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hourglass figure)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_surprise_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(surprise men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_attention_from_her_partner</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(attention from her partner)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_receive_flower_as_gift</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(receive flower as gift)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_wash_her_hair</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be wash her hair)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hunt_for_husband</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hunt for husband)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_reactionary</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be reactionary)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_pant_or_skirt</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear pant or skirt)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_slack_or_skirt</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear slack or skirt)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_indie_rock</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(indie rock)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_walk_across_street</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(walk across street)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_diamond_choker</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear diamond choker)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_staff</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(staff)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_choose_her_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(choose her man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_distance_herself_from_lover</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(distance herself from lover)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_water</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(water)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_feel_anxious_after_childbirth</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(feel anxious after childbirth)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_salt_her_fry</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(salt her fry)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wrong_her_husband</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wrong her husband)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_have_high_pay_job</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(have high pay job)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_milk_cow</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(milk cow)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_man_spacecraft</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(man spacecraft)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_human_be</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(human be)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_earings</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear earings)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_companion_of_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(companion of man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_boy</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(boy)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_spot_dust_mile_off</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(spot dust mile off)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hard_to_understand_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hard to understand than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_glam_metal</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(glam metal)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_have_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(have child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dance_erotically</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dance erotically)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_produce_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(produce child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_receive_rose_from_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(receive rose from man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_love</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(love)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_adult_female_human</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(adult female human)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hear_good_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hear good than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_kayak</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(kayak)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_chair_meet</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(chair meet)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_close_her_mouth</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be close her mouth)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_musical_work</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(musical work)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hospital</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hospital)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_charge</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(charge)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bown_coat_on</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bown coat on)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_get_pregnant</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(get pregnant)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_labor_to_give_childbirth</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(labor to give childbirth)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_breathe</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(breathe)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_voice_her_concern</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(voice her concern)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_pretty</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(pretty)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_clitoris</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(clitoris)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_we_rule</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(we rule)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fall_for_wrong_guy</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fall for wrong guy)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_adult</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(adult)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_penis</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(penis)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_maternity_ward</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(maternity ward)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_experience_orgasm</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(experience orgasm)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_jump_in_lake</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(jump in lake)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_shoe_bird</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(shoe bird)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_pop_music</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(pop music)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_distract</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be distract)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_man's_wife</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(man s wife)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_less_hairy_than_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(less hairy than man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_weak_vessel</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(weak vessel)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mall</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mall)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_male</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(male)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_beautiful</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(beautiful)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_like_other_woman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(like other woman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_care_for_her_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(care for her child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_succeed_at_work</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(succeed at work)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_women's_lib</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(women s lib)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fuck</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fuck)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_say_to_have_hourglass_figure</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(say to have hourglass figure)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_clothe_store</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(clothe store)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_common_as_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(common as man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_push_cart</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(push cart)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_rape</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(rape)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bisexual_boyfriend</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bisexual boyfriend)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_her_husband_to_fool_around</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(her husband to fool around)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_worry_about_her_shape_and_wieght</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(worry about her shape and wieght)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_compassion</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(compassion)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hot</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hot)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_womankind</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(womankind)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_speak_about_matta</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(speak about matta)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mother_her_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mother her baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_cupboard</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(cupboard)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_beauty</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(beauty)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wait_for_her_lover</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wait for her lover)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dive</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dive)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_demand_lot</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(demand lot)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_run_for_mile_or_more</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(run for mile or more)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_hold_purse</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be hold purse)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mankind</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mankind)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_teach_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(teach child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_suck</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(suck)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_grow</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(grow)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_receive_flower</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(receive flower)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_busy_herself_with_project</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(busy herself with project)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_part_her_hair</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(part her hair)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dare_to_think_for_herself</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dare to think for herself)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_makeup</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear makeup)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_furnish</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(furnish)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_gain_weight_at_pregnancy</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(gain weight at pregnancy)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hold_young_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hold young child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_quit_be_female</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(quit be female)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female_by_definition</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female by definition)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female_adult</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female adult)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_stand_on_lawn</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(stand on lawn)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_star_in_movie</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(star in movie)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_brain</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(brain)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_good_at_take_care_of_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(good at take care of baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_pay_rent</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(pay rent)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female_adult_person</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female adult person)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mayor</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mayor)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_judge_men_on_their_look</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(judge men on their look)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_exotic_dancer</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be exotic dancer)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_date_another_woman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(date another woman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_womanhood</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(womanhood)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_organisation</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(organisation)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_baroque_pop</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(baroque pop)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_independent_music</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(independent music)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_aviator_and_astronaut</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be aviator and astronaut)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_equality_with_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(equality with men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_put_on_makeup</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(put on makeup)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_demand_sex</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(demand sex)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_water_her_garden</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(water her garden)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_touch_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(touch man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dress_more_modestly_than_this</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dress more modestly than this)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_butter_piece_of_bread</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(butter piece of bread)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_band</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(band)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_light_cigarette</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(light cigarette)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_lift_box_onto_truck</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be lift box onto truck)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_kiss</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(kiss)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_magic</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(magic)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_age_girl</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(age girl)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_opposite_of_logic</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(opposite of logic)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_servant</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(servant)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_notice_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(notice man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_butter_up_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(butter up man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_have_fun</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(have fun)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_america_shave_their_leg_and_armpit</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(america shave their leg and armpit)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_unloved</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be unloved)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_cock_hole_between_their_leg</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(cock hole between their leg)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_long_hair</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(long hair)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_short_or_dress</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear short or dress)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_write_novel</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(write novel)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_die</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(die)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_girl</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(girl)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_row_canoe</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(row canoe)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_ice_cream</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(ice cream)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_get_hurt</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(get hurt)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_album</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(album)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_stand_up_next_to_cabinet</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(stand up next to cabinet)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bear_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bear child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_life_stage_social_topic</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(life stage social topic)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hold_her_lover</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hold her lover)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_country_music</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(country music)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_take_care_of_her_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(take care of her baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_smell_like_wet_dog</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(smell like wet dog)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_reach_for_her_lover's_hand</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(reach for her lover s hand)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_rub_nose_with_infant</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(rub nose with infant)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_right_to_her_liberty</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(right to her liberty)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_booby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(booby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_reason_with_woman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(reason with woman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_head_corporation</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(head corporation)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_desire_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(desire men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_reason</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(reason)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_feel_depress</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(feel depress)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_shave_their_head</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(shave their head)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_attendant</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(attendant)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fancy_hat</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fancy hat)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_work_at_home</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(work at home)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_not_go_to_army</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(not go to army)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_try_to_swim_english_channel</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(try to swim english channel)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_keep_her_jewelry</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(keep her jewelry)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_beautiful</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be beautiful)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_love</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be love)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_think</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(think)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mother_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mother child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fair_sex</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fair sex)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mother_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mother baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_sexual_object</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(sexual object)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_carry_purse</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(carry purse)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_see_wood</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(see wood)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_get_rose</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(get rose)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_less_tall_than_men_on_average</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(less tall than men on average)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bitch</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bitch)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_date_woman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(date woman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hard_rock</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hard rock)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_different_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(different than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_clean_glass</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(clean glass)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_sail_boat</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be sail boat)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mother_infant</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mother infant)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_trust_no_one</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(trust no one)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_human_female</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(human female)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_anglican_minister</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be anglican minister)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_date_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(date man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_vagina</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(vagina)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_count_on_her_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(count on her man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female_of_human_race</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female of human race)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_examine_by_doctor</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(examine by doctor)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_store</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(store)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_tuxedo</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear tuxedo)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_adult_girl</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(adult girl)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fix_flat_tire</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fix flat tire)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_gym</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(gym)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_carry_briefcase</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(carry briefcase)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_clear_her_mind_with_meditation</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(clear her mind with meditation)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_small_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(small than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_sex</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(sex)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_herself</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(herself)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_promise_man_she_will_change</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(promise man she will change)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_womanish</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(womanish)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_experience_miracle_of_birth</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(experience miracle of birth)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_see_with_her_eye</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(see with her eye)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_men's_rib</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(men s rib)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bed</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bed)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_fly_plane</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be fly plane)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_suffer_from_male_pattern_baldness</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(suffer from male pattern baldness)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_male_person</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(male person)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_lover</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(lover)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dumb</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dumb)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_beard</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(beard)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_long_hair_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(long hair than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_touch_her_cunt</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(touch her cunt)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_buy_new_clothe</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(buy new clothe)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bieng_help_down_into_quarry</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bieng help down into quarry)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hold_baby_up</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hold baby up)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_desire_to_be_beautiful</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(desire to be beautiful)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_use_makeup</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(use makeup)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_rule_some_country</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(rule some country)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_department_store</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(department store)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_captain_ship</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(captain ship)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_take_any_profession</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(take any profession)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_also</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(also)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_either_pant_or_skirt</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear either pant or skirt)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_garden_good_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(garden good than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_exercise_with_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(exercise with baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_play</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(play)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_gain_weight</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(gain weight)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_please_me_orally</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(please me orally)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_govern_nation</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(govern nation)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_commit_genocide</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(commit genocide)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_kiss_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(kiss man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_grow_person</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(grow person)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_plan_to_adopt_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(plan to adopt child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_drive_on_dirt_road</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(drive on dirt road)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_water_rose</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(water rose)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_attract_to_star_in_movie</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(attract to star in movie)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_chair_committee</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(chair committee)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_m</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(m)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_care_for_another_woman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(care for another woman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_policewoman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(policewoman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_ride_rorse_among_beautiful_tree</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(ride rorse among beautiful tree)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_become_pregnant</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(become pregnant)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_succeed_in_business_school</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(succeed in business school)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_jump_into_river</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(jump into river)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wrong_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wrong men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mother_her_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mother her child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_shoe</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(shoe)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bedroom</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bedroom)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_ugly</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be ugly)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_look_at_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(look at man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_please_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(please men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_office</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(office)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_paint_fence</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(paint fence)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_desire_that_man_kiss_her</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(desire that man kiss her)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_visit_by_doctor</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(visit by doctor)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_have_sex_with</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(have sex with)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_black</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(black)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_excellent_sushi_chef</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be excellent sushi chef)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_old_girl</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(old girl)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hang_her_coat_on_rack</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hang her coat on rack)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_have_sex</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(have sex)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_meditate</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(meditate)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_breast</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(breast)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_eat_alone_in_semi_formal_setting</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(eat alone in semi formal setting)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bar</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bar)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_think_to_rest</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(think to rest)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_disco</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(disco)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mail_check_to_her_ex</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mail check to her ex)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_stupid</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(stupid)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_she</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(she)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_forget_to_take_out_trash</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(forget to take out trash)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_human_gender</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(human gender)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_abusive_boyfriend</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(abusive boyfriend)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_climb_rock</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(climb rock)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_stop_to_ask_for_direction</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(stop to ask for direction)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_own_car</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(own car)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_make_themselves_beautiful</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(make themselves beautiful)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_sail_around_world</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(sail around world)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female_lady</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female lady)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_sec</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(sec)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_go_to_party</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(go to party)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_small_then_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(small then men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_maturity</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(maturity)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_leg</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(leg)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_consider_marriage</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(consider marriage)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_girl_grownup</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(girl grownup)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_love_to_look_at_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(love to look at baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_when_girl_grow_up_they</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(when girl grow up they)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bone_chicken</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bone chicken)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_age_gracefully</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(age gracefully)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_get_heartbroken</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(get heartbroken)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_spread_gossip</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(spread gossip)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_jewelry</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear jewelry)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mature</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mature)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_right_to_her_property</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(right to her property)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_job</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(job)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_womenfolk</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(womenfolk)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_kitchen</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(kitchen)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_goddess</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(goddess)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_cover_their_breast_while_in_public</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(cover their breast while in public)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_lady_room</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(lady room)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_adult_female</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(adult female)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_doubt_man's_sincerity</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(doubt man s sincerity)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_look_attractive</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(look attractive)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_man_partner</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(man partner)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_consider_herself_brave</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(consider herself brave)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_read_magazine_call_redbook</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(read magazine call redbook)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_get_rose_as_gift</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(get rose as gift)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dress_herself</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dress herself)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bosom</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bosom)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_show_her_pussy</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(show her pussy)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_respect</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(respect)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_u_nderstand_female_viewpoint</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(u nderstand female viewpoint)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hole_slot</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hole slot)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_please_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(please man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_cup_her_breast</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(cup her breast)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_as_few_clothe_as_possible</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear as few clothe as possible)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_spread_her_pussy</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(spread her pussy)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_doctor</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be doctor)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_produce_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(produce baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_attempt_to_have_affair</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(attempt to have affair)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_equal_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(equal men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_tie_scarf_around_her_neck</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(tie scarf around her neck)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_plural_for_woman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(plural for woman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_have_soft_hand</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(have soft hand)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_master_tai_chi</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(master tai chi)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_row_boat</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(row boat)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hit_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hit man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_read_to_blind_person</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(read to blind person)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mature_female</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mature female)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_eye_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(eye men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_gal</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(gal)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_travel_to_egypt</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(travel to egypt)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_farm_corn</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(farm corn)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hunt_husband</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hunt husband)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_garden_for_live</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(garden for live)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_soft_skin</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(soft skin)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_human_adult</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(human adult)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_feel_nauseate</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(feel nauseate)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_man_or</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(man or)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_buy_shoe</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(buy shoe)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fear_dog</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fear dog)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_experience_childbirth</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(experience childbirth)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_go_shop</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(go shop)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bear_of_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bear of child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_walk_down_street</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(walk down street)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_monk</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(monk)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_wear_dress</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be wear dress)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_strange_creature</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(strange creature)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_duck_to_avoid_fly_ball</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(duck to avoid fly ball)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_partner</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(partner)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_drive_car</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(drive car)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_sunglass</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear sunglass)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_grow_old</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(grow old)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_grow_up</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(grow up)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_tell_her_friend_secret</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(tell her friend secret)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_unite</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(unite)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_rich</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be rich)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_order_food</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(order food)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_single_woman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(single woman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_party</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(party)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_have_conversation</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(have conversation)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_choose_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(choose man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_equal_pay_for_equal_effort</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(equal pay for equal effort)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_emotionally</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(emotionally)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_large_wardrobe_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(large wardrobe than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_grow_girl</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(grow girl)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_promise_man_to_marry_him</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(promise man to marry him)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_present_her_husband</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(present her husband)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_butter_toast</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(butter toast)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fashionable_clothe</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fashionable clothe)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dress_up</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dress up)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_flirt_with_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(flirt with baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_catholic_priest</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(catholic priest)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_look_through_binoculars</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(look through binoculars)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_person</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(person)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_decorate_their_lip_use_lipstick</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(decorate their lip use lipstick)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mother</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mother)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_tear_her_stock</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(tear her stock)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_taxi</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(taxi)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_musical_composition</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(musical composition)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_make_wine</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(make wine)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_look_beautiful_to_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(look beautiful to men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_earring</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear earring)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_skirt_and_hose</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear skirt and hose)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dance_jig</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dance jig)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_kill</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(kill)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_human</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(human)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_irritable</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(irritable)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_femme</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(femme)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_own_house</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(own house)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fancy_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fancy man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_cosmetic_more_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear cosmetic more than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_love_to_hold_up_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(love to hold up baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_eye_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(eye man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_art_rock</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(art rock)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_stop_your_car</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(stop your car)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_put_clothe_in_dry</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(put clothe in dry)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_cum</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(cum)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_govern_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(govern child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_pill</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(pill)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_slap</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be slap)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_write_work</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(write work)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_read</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(read)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_big</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(big)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_same_as_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(same as men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_bicycle_to_work</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(bicycle to work)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_mother_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(mother man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_superwomen</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(superwomen)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_rock_music</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(rock music)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_world</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(world)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_use_witchcraft_to_do_war</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(use witchcraft to do war)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_go_to_sleep</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(go to sleep)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_lady</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(lady)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_ready_her_hair</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(ready her hair)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_name</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(name)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fix_car</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fix car)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_eat_spaghetti</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(eat spaghetti)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_concentrate_on_education_thier_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(concentrate on education thier child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_suckle_infant</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(suckle infant)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_try_drink</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(try drink)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_clean_lady</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be clean lady)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_eat_less_food_than_men_do</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(eat less food than men do)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_chick</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(chick)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_child_after_n</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(child after n)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_experience_pleasure</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(experience pleasure)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_appear_sexy</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(appear sexy)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_old</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(old)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_more_verbal_fluency</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(more verbal fluency)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_stone_rock</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(stone rock)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_ride_male_horse</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(ride male horse)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female_gender</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female gender)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_stop_put_up_with_it</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(stop put up with it)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_pregnant</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be pregnant)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_short_hair_like_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(short hair like men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_remember_to_pick_up_her_drycleaning</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(remember to pick up her drycleaning)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_nail_down_board</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(nail down board)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_pee</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(pee)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_noise_rock</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(noise rock)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_man_shuttle</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(man shuttle)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_make_significant_contribution_to_society</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(make significant contribution to society)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_slut</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(slut)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_jean_and_blouse</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear jean and blouse)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_your_best_friend</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be your best friend)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_brown_hair</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(brown hair)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_madame</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(madame)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fuck_her</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fuck her)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_like_chocolate</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(like chocolate)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_magazine</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(magazine)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_step_down_mountain</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(step down mountain)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_labor_to_to_give_birth</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(labor to to give birth)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_know_what_they_want</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(know what they want)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_dress</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear dress)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fertile</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fertile)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_make_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(make baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_carry_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(carry baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_labor_to_have_baby</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(labor to have baby)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_water_plant</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(water plant)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_storm_out_of_room</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(storm out of room)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_protect_her_womb</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(protect her womb)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_labor_to_give_birth</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(labor to give birth)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_more_emotional_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(more emotional than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_drink_wine</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(drink wine)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_effeminate</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(effeminate)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_long</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(long)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fall_in_love_with</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fall in love with)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_choose_home</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(choose home)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_arm_herself_with_weapon</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(arm herself with weapon)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_jump_to_lake_or_river</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(jump to lake or river)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_sexy_lingerie_for_her_lover</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear sexy lingerie for her lover)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_sex_with_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(sex with men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_sun_bathe</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(sun bathe)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_labor_in_childbirth</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(labor in childbirth)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_delivery</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(delivery)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_feminine</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(feminine)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_save_money</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(save money)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_superwoman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(superwoman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_show_early</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(show early)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_eat</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(eat)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_fight_racism</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(fight racism)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_greedy_and_spiteful</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(greedy and spiteful)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_feel_secure</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(feel secure)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_breast_feed</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(breast feed)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_charge_purchase_to_her_account</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(charge purchase to her account)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_up</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(up)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_spread_leg</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(spread leg)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_carry_unborn_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be carry unborn child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_rape_in_war</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(rape in war)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_desire_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(desire man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_price_new_car</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(price new car)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dare_to_speak_her_mind</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dare to speak her mind)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_emotional</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(emotional)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_sportswoman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(sportswoman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_oil_pan_with_olive_oil</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(oil pan with olive oil)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_dive_into_river_to_swim</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(dive into river to swim)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_horsewoman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(horsewoman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_enjoy_delicious_chocolate</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(enjoy delicious chocolate)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_single</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(single)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_doubt_word_of_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(doubt word of man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_chat</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(chat)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_home</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(home)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_girlfriend</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(girlfriend)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_mother</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be mother)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_film</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(film)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_walk_up_street</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(walk up street)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_no_beard</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(no beard)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_tit</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(tit)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female_person</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female person)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wear_necklace</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wear necklace)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_book</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(book)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_best_her_opponent</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(best her opponent)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_boob</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(boob)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_two_x_chromosome</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(two x chromosome)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_act_helpless</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(act helpless)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_beatiful</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(beatiful)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_periodical_literature</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(periodical literature)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_good_manual_dexterity_than_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(good manual dexterity than men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_refer_to_as_girl</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(refer to as girl)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_smart_man</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(smart man)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_hair</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(hair)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_female_of_human_specie</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(female of human specie)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_kiss_men</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(kiss men)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_trust_her_husband_to_be_faithful</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(trust her husband to be faithful)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_love_their_child</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(love their child)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_wife</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(wife)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_we</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(we)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_age</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(age)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_curve</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(curve)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_rule</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(rule)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_spend_money</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(spend money)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_in_charge_of_home</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be in charge of home)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_no_brain</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(no brain)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_be_consider_for_equal_pay</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(be consider for equal pay)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_one_of_many_woman</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(one of many woman)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_grownup</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(grownup)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_give_birth</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(give birth)
+) 
+</text>
+</query>
+<query>
+<number>768_woman_in_state_legislature_big_girl</number>
+<text>
+#weight(
+0.7 #combine(legislature state woman in )
+0.3 #combine(big girl)
+) 
+</text>
+</query>
+<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>

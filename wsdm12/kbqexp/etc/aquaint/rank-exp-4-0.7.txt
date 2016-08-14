@@ -1,0 +1,28 @@
+<parameters>
+  <index>/home/alex/index/aquaint/aquaint.key</index>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <textQuery>/home/alex/data/aquaint/queries/queryAquaint303-689</textQuery>
+  <featFile>/home/alex/projects/kbqexp/results/aquaint/rank/splits-13/test.4</featFile>
+  <termFile>/home/alex/projects/kbqexp/results/aquaint/rank/exp-terms-13.4</termFile>
+  <maxExpTerms>100</maxExpTerms>
+  <maxOutTerms>20</maxOutTerms>
+  <origModCoef>0.7</origModCoef>
+  <interc>0.102607</interc>
+  <topDocFrac>0.003600</topDocFrac>
+  <idf>-0.005516</idf>
+  <fanOut>-0.001476</fanOut>
+  <avgColCor>-0.027103</avgColCor>
+  <maxColCor>0.031987</maxColCor>
+  <avgTopCor>-0.018460</avgTopCor>
+  <maxTopCor>-0.011212</maxTopCor>
+  <avgTopPCor>0</avgTopPCor>
+  <maxTopPCor>0.035254</maxTopPCor>
+  <avgQDist>-0.014894</avgQDist>
+  <maxQDist>-0.000320</maxQDist>
+  <avgPWeight>0</avgPWeight>
+  <avgPWeight>0</avgPWeight>
+  <resultFormat>3col</resultFormat>
+  <resultFile>/home/alex/projects/kbqexp/results/aquaint/rank/rank-exp-13.4</resultFile>
+</parameters>

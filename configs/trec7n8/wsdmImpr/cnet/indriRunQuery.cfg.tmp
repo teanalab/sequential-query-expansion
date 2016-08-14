@@ -1,0 +1,10 @@
+<parameters><index>/scratch/index/indri_5_7/trec7n8</index>
+<query>
+<number>1_358_blood_alcohol_fatality_</number>
+<text>
+#weight(
+0.7 #combine(blood fatality alcohol )
+) 
+</text>
+</query>
+<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>

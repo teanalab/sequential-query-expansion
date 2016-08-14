@@ -1,0 +1,17 @@
+<parameters>
+  <index>/home/alex/index/gov/gov.key</index>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <textQuery>/home/alex/data/gov/queries/queryDbg</textQuery>
+  <colGraphFile>/home/alex/data/gov/graphs/gov-hal</colGraphFile>
+  <conGraphFile>/home/alex/data/gov/graphs/gov-qcon-3</conGraphFile>
+  <randWalkFile>/home/alex/projects/kbqexp/results/gov/fwalk-eterms.res</randWalkFile>
+  <pathFindFile>/home/alex/projects/kbqexp/results/gov/qpath-eterms.res</pathFindFile>
+  <weightThresh>0.001</weightThresh>
+  <judgFile>/home/alex/data/gov/queries/qrelsWT041-225</judgFile>
+  <maxDocRank>10</maxDocRank>
+  <expRadius>2</expRadius>
+  <numSplits>5</numSplits>
+  <outDir>/home/alex/projects/kbqexp/results/gov/rank-2/splits</outDir>
+</parameters>

@@ -1,0 +1,10 @@
+<parameters>
+  <index>/home/alex/index/wt2g/wt2g.key</index>
+  <textQuery>/home/alex/data/wt2g/queries/queryWT2G401-450</textQuery>
+  <unstemQuery>/home/alex/data/wt2g/queries/queryWT2GUnstem401-450</unstemQuery>
+  <serverUrl>http://localhost:8000/</serverUrl>
+  <maxPathLen>3</maxPathLen>
+  <maxContSize>100</maxContSize>
+  <docFracMax>0.1</docFracMax>
+  <resultFile>/home/alex/projects/kbqexp/results/wt2g/con-graph-3-100.res</resultFile>
+</parameters>

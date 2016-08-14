@@ -1,0 +1,10 @@
+<parameters>
+  <index>/home/alex/index/aquaint/aquaint.key</index>
+  <textQuery>/home/alex/data/aquaint/queries/queryAquaintStop303-689</textQuery>
+  <unstemQuery>/home/alex/data/aquaint/queries/queryAquaintStopUnstem303-689</unstemQuery>
+  <serverUrl>http://localhost:8000/</serverUrl>
+  <maxPathLen>3</maxPathLen>
+  <maxContSize>100</maxContSize>
+  <docFracMax>0.1</docFracMax>
+  <resultFile>/home/alex/projects/kbqexp/results/aquaint/con-graph-3-100.res</resultFile>
+</parameters>

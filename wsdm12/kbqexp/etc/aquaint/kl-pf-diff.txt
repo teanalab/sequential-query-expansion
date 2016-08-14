@@ -1,0 +1,13 @@
+<parameters>
+  <index>/home/alex/index/aquaint/aquaint.key</index>
+  <textQuery>/home/alex/data/aquaint/queries/queryAquaintDiff</textQuery>
+  <resultFile>/home/alex/projects/kbqexp/results/aquaint/diff-kl-pf.res</resultFile>
+  <resultFormat>3col</resultFormat>
+  <feedbackDocuments>/home/alex/projects/kbqexp/results/aquaint/diff-kl-dv.res</feedbackDocuments>
+  <feedbackDocCount>10</feedbackDocCount>
+  <retModel>kl</retModel>
+  <smoothMethod>dir</smoothMethod>
+  <DirichletPrior>2000</DirichletPrior>
+  <feedbackMixtureNoise>0.95</feedbackMixtureNoise>
+  <feedbackCoefficient>0.9</feedbackCoefficient>
+</parameters>

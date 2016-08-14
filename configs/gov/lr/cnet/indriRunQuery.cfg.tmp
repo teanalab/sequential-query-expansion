@@ -1,0 +1,407 @@
+<parameters><index>/scratch/index/indri_5_7/gov</index>
+<query>
+<number>78_us_antarctic_program_science_section_sector</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(sector)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_concept</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(concept)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_text</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(text)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_modern_military_organization</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(modern military organization)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_right_inverse</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(right inverse)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_non_commission_officer</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(non commission officer)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_trisect</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(trisect)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_bisect</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(bisect)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_section_of_text</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(section of text)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_plot</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(plot)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_cut</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(cut)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_resect</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(resect)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_platoon</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(platoon)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_cross_section</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(cross section)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_orchestra</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(orchestra)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_slide</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(slide)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_snippet</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(snippet)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_music</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(music)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_intersect</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(intersect)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_secant</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(secant)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_division</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(division)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_citrus</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(citrus)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_specimen</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(specimen)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_square_mile</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(square mile)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_volume</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(volume)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_band</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(band)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_insect</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(insect)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_slice</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(slice)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_part</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(part)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_segment</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(segment)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_piece</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(piece)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_subdivision</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(subdivision)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_incision</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(incision)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_geometry</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(geometry)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_dissect</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(dissect)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_sectarian</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(sectarian)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_soldier</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(soldier)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_army_unit</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(army unit)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_musical_piece_which_need_phrase</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(musical piece which need phrase)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_survey</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(survey)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_sect</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(sect)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_team</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(team)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_commit</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(commit)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_musical_organization</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(musical organization)
+) 
+</text>
+</query>
+<query>
+<number>78_us_antarctic_program_science_section_whole</number>
+<text>
+#weight(
+0.7 #combine(science antarctic program section us )
+0.3 #combine(whole)
+) 
+</text>
+</query>
+<rule>method:dir,mu:1600</rule><threads>32</threads><count>10</count><trecFormat>true</trecFormat></parameters>
