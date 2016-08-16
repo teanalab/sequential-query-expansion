@@ -21,3 +21,5 @@ swig/
 .ipynb_checkpoints/
 .ropeproject/
 *key.txt
+.RData
+.Rhistory
