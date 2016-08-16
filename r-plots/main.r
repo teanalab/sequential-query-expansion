@@ -2,7 +2,7 @@ library(ggplot2)
 library("reshape2")
 library(grid)
 
-setwd("~/Dropbox/r/project/seq_qu_exp/")
+setwd("~/Dropbox/r/project/seq_qu_exp/r-plots")
 
 ###########################################################################################################
 
