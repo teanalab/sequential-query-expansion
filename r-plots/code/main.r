@@ -1,19 +1,20 @@
 library(ggplot2)
 library("reshape2")
 library(grid)
+library(scales)
 
-setwd("~/Dropbox/r/project/seq_qu_exp/r-plots")
+setwd("~/projects/ir/seq_kb_ir/r-plots")
 
 ###########################################################################################################
 
-U = read.csv("data.csv", header = FALSE)
+U = read.csv("data/data.csv", header = FALSE)
 t = seq(0,1,length=10)
 
 row.names(U) <- NULL 
 
 ###########################################################################################################
 ###########################################################################################################
-U = read.csv("thresholds.csv", header = TRUE)
+U = read.csv("data/thresholds.csv", header = TRUE)
 tnew = seq(0,0.4,length=10)
 
 smooth <- function(t,y,tnew)
@@ -49,7 +50,7 @@ p <- ggplot(data = df, aes(x=x, y=y, color = Threshold, shape = Threshold)) +
   scale_shape_manual(name = "",
                      labels = c(expression(beta[U]), expression(beta[L]), expression(alpha[1])),
                      values = c(0, 1, 2))+
-  theme(legend.position = c(0.2, 0.2),
+  theme(legend.position = c(0.2, 0.25),
         # theme(legend.position = c(0.6, .45),
         legend.background = element_rect(fill=alpha('white', 0.1)))+
   xlab("Threshold")+
@@ -58,11 +59,11 @@ p <- ggplot(data = df, aes(x=x, y=y, color = Threshold, shape = Threshold)) +
   labs(shape="")
 
 print(p)
-ggsave("images/TREC7n8.pdf", width = 2.75, height = 2.3)
+ggsave("images/TREC7n8.pdf", width = 2.75, height = 1.8)
 
 
 ###########################################################################################################
-U = read.csv("thresholds.csv", header = TRUE)
+U = read.csv("data/thresholds.csv", header = TRUE)
 tnew = seq(0,0.4,length=10)
 
 smooth <- function(t,y,tnew)
@@ -98,7 +99,7 @@ p <- ggplot(data = df, aes(x=x, y=y, color = Threshold, shape = Threshold)) +
   scale_shape_manual(name = "",
                      labels = c(expression(beta[U]), expression(beta[L]), expression(alpha[1])),
                      values = c(0, 1, 2))+
-  theme(legend.position = c(0.2, 0.2),
+  theme(legend.position = c(0.2, 0.25),
         # theme(legend.position = c(0.6, .45),
         legend.background = element_rect(fill=alpha('white', 0.1)))+
   xlab("Threshold")+
@@ -107,10 +108,10 @@ p <- ggplot(data = df, aes(x=x, y=y, color = Threshold, shape = Threshold)) +
   labs(shape="")
 
 print(p)
-ggsave("images/ROBUST04.pdf", width = 2.75, height = 2.3)
+ggsave("images/ROBUST04.pdf", width = 2.75, height = 1.8)
 
 ###########################################################################################################
-U = read.csv("thresholds.csv", header = TRUE)
+U = read.csv("data/thresholds.csv", header = TRUE)
 tnew = seq(0,0.4,length=10)
 
 smooth <- function(t,y,tnew)
@@ -146,7 +147,7 @@ p <- ggplot(data = df, aes(x=x, y=y, color = Threshold, shape = Threshold)) +
   scale_shape_manual(name = "",
                      labels = c(expression(beta[U]), expression(beta[L]), expression(alpha[1])),
                      values = c(0, 1, 2))+
-  theme(legend.position = c(0.2, 0.2),
+  theme(legend.position = c(0.2, 0.25),
         # theme(legend.position = c(0.6, .45),
         legend.background = element_rect(fill=alpha('white', 0.1)))+
   xlab("Threshold")+
@@ -155,7 +156,7 @@ p <- ggplot(data = df, aes(x=x, y=y, color = Threshold, shape = Threshold)) +
   labs(shape="")
 
 print(p)
-ggsave("images/GOV.pdf", width = 2.75, height = 2.3)
+ggsave("images/GOV.pdf", width = 2.75, height = 1.8)
 
 ###########################################################################################################
 
@@ -392,7 +393,7 @@ p <- ggplot(data = df, aes(x=x, y=y, color = Parameter, shape = Parameter)) +
   labs(shape="")
 
 print(p)
-ggsave("images/GOV.pdf", width = 4.15, height = 3.24)
+ggsave("images/GOV.eps", width = 4.15, height = 3.24)
 
 ###########################################################################################################
 
@@ -611,7 +612,7 @@ cuts <- rbind(cuts2,cuts3)
   
 ###########################################################################################################
 
-illustrations <- read.csv("illustrations_sorted_layers3.csv", header = TRUE, sep = ",", quote = "\"")
+illustrations <- read.csv("data/illustrations_sorted_layers3.csv", header = TRUE, sep = ",", quote = "\"")
 
 N = length(illustrations$Q)
 data=data.frame(x=seq(1,N), y=illustrations$Q, l=illustrations$level, c=illustrations$concept, p=illustrations$pairs)
